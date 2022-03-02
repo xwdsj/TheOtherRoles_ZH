@@ -1,9 +1,6 @@
 
-此项目为The Other Roles模组的汉化项目
-目前支持版本：3.4.4
-感谢岸天提供的汉化Sprite资源
-![eisbison banner](./Images/TOR_logo.png)
-<p align="center"><a href="https://github.com/Eisbison/TheOtherRoles/releases/"><img src="https://badgen.net/github/release/eisbison/theotherroles"></a></p>
+此项目为由AlerHugu3s汉化的The Other Roles模组，我用于学习参考，将来可能会进行魔改
+感谢Eisbison、AlerHugu3s、岸天等大佬
 
 <p align="center">
 本MOD不隶属于AmongUs或Innersloth LLC，本MOD中内容未受Innersloth LLC资助或授权.本MOD中一部分使用的资源属于Innersloth LLC. © Innersloth LLC版权所有。</p>
