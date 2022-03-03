@@ -49,7 +49,7 @@
 
 # 鸣谢 与 资源
 [TheOtherRoles](https://github.com/Eisbison/TheOtherRoles) - 原版mod作者 **Eisbison**以及他的团队们\
-[TheOtherRoles_ZH](https://github.com/AlerHugu3s/TheOtherRoles_ZH) - 原汉化版本作者，本改版是基于他的项目所修改的 **AlerHugu3s**\
+[TheOtherRoles_ZH](https://github.com/AlerHugu3s/TheOtherRoles_ZH) - 原汉化版本作者，本改版是基于**AlerHugu3s**的项目所修改的\
 感谢岸天汉化组的图标资源
 
 # Settings
