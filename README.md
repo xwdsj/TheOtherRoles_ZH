@@ -66,7 +66,6 @@
 [Ottomated](https://twitter.com/ottomated_) - 化形者、告密者以及隐蔽者的创意原本是由**Ottomated**提供的\
 [Crowded-Mod](https://github.com/CrowdedMods/CrowdedMod) - 超过10位玩家的游戏大厅需要归功于**Crowded Mod Team**\
 [Goose-Goose-Duck](https://store.steampowered.com/app/1568590/Goose_Goose_Duck) - 秃鹫职业的创意原本是由**Slushygoose**提供的\
-
 [TheOtherRoles](https://github.com/Eisbison/TheOtherRoles) - 原版mod作者 **Eisbison**以及他的团队们\
 [TheOtherRoles_ZH](https://github.com/AlerHugu3s/TheOtherRoles_ZH) - 原汉化版本作者，本改版是基于他的项目所修改的 **AlerHugu3s**\
 感谢岸天汉化组的图标资源
