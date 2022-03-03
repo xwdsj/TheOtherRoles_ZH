@@ -2,6 +2,11 @@
 <p align="center">
 本MOD不隶属于AmongUs或Innersloth LLC，本MOD中内容未受Innersloth LLC资助或授权.本MOD中一部分使用的资源属于Innersloth LLC. © Innersloth LLC版权所有。</p>
 
+# 鸣谢 与 资源
+[TheOtherRoles](https://github.com/Eisbison/TheOtherRoles) - 原版mod作者 **Eisbison**以及他的团队们\
+[TheOtherRoles_ZH](https://github.com/AlerHugu3s/TheOtherRoles_ZH) - 原汉化版本作者，本改版是基于**AlerHugu3s**的项目所修改的\
+感谢岸天汉化组的图标资源
+
 # 更多职业模组
 
 **更多职业模组**, 是[Among Us](https://store.steampowered.com/app/945360/Among_Us)游戏的MOD，且添加了全新角色、全新的[设置选项](#settings)、全新的[自定义帽子](#custom-hats)并且为游戏添加了支持[超过十位玩家的游戏大厅](#超过十位玩家的游戏大厅)。
@@ -40,11 +45,6 @@
 -修改了汉化
 
 </details>
-
-# 鸣谢 与 资源
-[TheOtherRoles](https://github.com/Eisbison/TheOtherRoles) - 原版mod作者 **Eisbison**以及他的团队们\
-[TheOtherRoles_ZH](https://github.com/AlerHugu3s/TheOtherRoles_ZH) - 原汉化版本作者，本改版是基于**AlerHugu3s**的项目所修改的\
-感谢岸天汉化组的图标资源
 
 # Settings
 The mod adds a few new settings to Among Us (in addition to the role settings):
