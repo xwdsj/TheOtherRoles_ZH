@@ -48,24 +48,6 @@
 </details>
 
 # 鸣谢 与 资源
-[OxygenFilter](https://github.com/NuclearPowered/Reactor.OxygenFilter) - 对于v2.3.0 to v2.6.1的所有版本, 我们使用了OxygenFilter来自动解码\
-[Reactor](https://github.com/NuclearPowered/Reactor) - 这是我们在v2.0.0以前所有版本使用的框架\
-[BepInEx](https://github.com/BepInEx) - 我们用它来hook方法\
-[Essentials](https://github.com/DorCoMaNdO/Reactor-Essentials) - 由**DorCoMaNdO**制作的自定义菜单:
-- 在 v1.6 之前: 我们使用Essentials的发布版
-- 在 v1.6-v1.8:我们对Essentials稍微做了一些改动. 你可以在这里查看这些改动 [branch](https://github.com/Eisbison/Reactor-Essentials/tree/feature/TheOtherRoles-Adaption) of our fork.
-- v2.0.0 以后的版本: 由于我们不再使用Reactor, 在**DorCoMaNdO**的帮助下，我们自己实现了自定义菜单功能
-
-[Jackal and Sidekick](https://www.twitch.tv/dhalucard) - 豺狼与跟班的创意原本是由**Dhalucard**提供的\
-[Among-Us-Love-Couple-Mod](https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod) - 恋人的创意原本是由**Woodi-dev**提供的\
-[Jester](https://github.com/Maartii/Jester) - 小丑的创意原本是由**Maartii**提供的\
-[ExtraRolesAmongUs](https://github.com/NotHunter101/ExtraRolesAmongUs) - 工程师与医生的创意原本是由**NotHunter101**提供的. 我们还使用了一些他提供的代码.\
-[Among-Us-Sheriff-Mod](https://github.com/Woodi-dev/Among-Us-Sheriff-Mod) - 警长的创意原本是由**Woodi-dev**提供的\
-[TooManyRolesMods](https://github.com/Hardel-DW/TooManyRolesMods) - 侦探和时间之主的创意原本是由**Hardel-DW**提供的. 我们还使用了一些他提供的代码.\
-[TownOfUs](https://github.com/slushiegoose/Town-Of-Us) - 换票师、交换师、纵火犯和一个类似的市长创意是由**Slushiegoose**提供的\
-[Ottomated](https://twitter.com/ottomated_) - 化形者、告密者以及隐蔽者的创意原本是由**Ottomated**提供的\
-[Crowded-Mod](https://github.com/CrowdedMods/CrowdedMod) - 超过10位玩家的游戏大厅需要归功于**Crowded Mod Team**\
-[Goose-Goose-Duck](https://store.steampowered.com/app/1568590/Goose_Goose_Duck) - 秃鹫职业的创意原本是由**Slushygoose**提供的\
 [TheOtherRoles](https://github.com/Eisbison/TheOtherRoles) - 原版mod作者 **Eisbison**以及他的团队们\
 [TheOtherRoles_ZH](https://github.com/AlerHugu3s/TheOtherRoles_ZH) - 原汉化版本作者，本改版是基于他的项目所修改的 **AlerHugu3s**\
 感谢岸天汉化组的图标资源
