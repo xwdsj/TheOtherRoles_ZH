@@ -1,12 +1,6 @@
-
-此项目为AlerHugu3s汉化的The Other Roles模组的修改版本
-
+此项目为AlerHugu3s汉化的The Other Roles模组的修改版本\
 <p align="center">
 本MOD不隶属于AmongUs或Innersloth LLC，本MOD中内容未受Innersloth LLC资助或授权.本MOD中一部分使用的资源属于Innersloth LLC. © Innersloth LLC版权所有。</p>
-
-[![Discord](./Images/TOR_server.png)](https://discord.gg/77RkMJHWsM)
-![eisbison infographic](./Images/TOR_roles.jpg)
-
 
 # 更多职业模组
 
