@@ -7,6 +7,10 @@
 [TheOtherRoles_ZH](https://github.com/AlerHugu3s/TheOtherRoles_ZH) - 原汉化版本作者，本改版是基于**AlerHugu3s**的项目所修改的\
 感谢岸天汉化组的图标资源
 
+# 如果你想要frok
+请不要利用它来盈利，这是给所有对此mod有贡献的人的尊重。
+除此之外，请做任何你想做的事情。
+
 # 更多职业模组
 
 **更多职业模组**, 是[Among Us](https://store.steampowered.com/app/945360/Among_Us)游戏的MOD，且添加了全新角色、全新的[设置选项](#settings)、全新的[自定义帽子](#custom-hats)并且为游戏添加了支持[超过十位玩家的游戏大厅](#超过十位玩家的游戏大厅)。
