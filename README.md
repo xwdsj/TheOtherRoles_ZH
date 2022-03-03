@@ -1,14 +1,15 @@
-
-此项目为由AlerHugu3s汉化的The Other Roles模组，我用于学习参考，将来可能会进行魔改
-
-感谢Eisbison、AlerHugu3s、岸天等大佬
-
+**此项目为AlerHugu3s汉化的The Other Roles模组的修改版本**
 <p align="center">
 本MOD不隶属于AmongUs或Innersloth LLC，本MOD中内容未受Innersloth LLC资助或授权.本MOD中一部分使用的资源属于Innersloth LLC. © Innersloth LLC版权所有。</p>
 
-[![Discord](./Images/TOR_server.png)](https://discord.gg/77RkMJHWsM)
-![eisbison infographic](./Images/TOR_roles.jpg)
+# 鸣谢 与 资源
+[TheOtherRoles](https://github.com/Eisbison/TheOtherRoles) - 原版mod作者 **Eisbison**以及他的团队们\
+[TheOtherRoles_ZH](https://github.com/AlerHugu3s/TheOtherRoles_ZH) - 原汉化版本作者，本改版是基于**AlerHugu3s**的项目所修改的\
+感谢岸天汉化组的图标资源
 
+# 如果你想要frok
+请不要利用它来盈利，这是给所有对此mod有贡献的人的尊重。
+除此之外，请做任何你想做的事情。
 
 # 更多职业模组
 
@@ -20,130 +21,34 @@
 | [坏迷你船员](#mini) | [好迷你船员](#mini) | [纵火犯](#arsonist) | [恋人](#lovers) |
 | [邪恶的赌怪](#guesser) | [正义的赌怪](#guesser) | [小丑](#jester) |  |
 | [赏金猎人](#bounty-hunter) | [侦探](#detective) | [豺狼](#jackal) |  |
-| [伪装者](#camouflager) | [工程师](#engineer) | [走狗](#sidekick) |  |
-| [清理者](#cleaner) | [骇客](#hacker) | [秃鹫](#vulture) |  |
-| [抹除者](#eraser) | [秉烛者](#lighter) | [律师](#lawyer) |  |
+| [隐蔽者](#camouflager) | [工程师](#engineer) | [跟班](#sidekick) |  |
+| [清理者](#cleaner) | [黑客](#hacker) | [秃鹫](#vulture) |  |
+| [抹除者](#eraser) | [执灯人](#lighter) | [律师](#lawyer) |  |
 | [教父 (黑手党)](#mafia) | [市长](#mayor) |  |  |
 | [小弟 (黑手党)](#mafia) | [医生](#medic) |  |  |
 | [清洁工 (黑手党)](#mafia)  | [保安](#security-guard) |  |  |
-| [化形者](#morphling) | [先知](#seer) |  |  |
-| [诡术师](#trickster) | [警长](#sheriff) 
-| [吸血鬼](#vampire) | [警员](#deputy) |  |
+| [化形者](#morphling) | [灵媒](#seer) |  |  |
+| [骗术师](#trickster) | [警长](#sheriff) 
+| [吸血鬼](#vampire) | [捕快](#deputy) |  |
 | [术士](#warlock) | [交换师](#shifter) |  |  |
 | [女巫](#witch) | [告密者](#snitch) |  |  |
 |  | [间谍](#spy) |  |  |
 |  | [换票师](#swapper) |  |  |
-|  | [时间大师](#time-master) |  |  |
+|  | [时间之主](#time-master) |  |  |
 |  |  [追踪者](#tracker) |  |  |
 |  |  [诱饵](#bait) |  |
 |  |  [通灵师](#medium) |  |
 
 [角色分配](#role-assignment)部分解释了角色是如何在玩家间被分配的。
 
-# 发布版
-| Among Us - 版本| Mod 版本 | 链接 |
-|----------|-------------|-----------------|
-| 2021.12.15s| v3.4.3| [下载](https://github.com/AlerHugu3s/TheOtherRoles_ZH/releases/download/v3.4.3/TheOtherRoles_ZH.zip)
-
 # 更新日志
 <details>
   <summary>点击显示更新日志</summary>
 
-**3.4.3 版本**
-- 修复了"邪恶赌怪生成概率"使整个角色系统崩溃的bug
-- 修复了被招募成走狗的骇客会卡住的bug
-- 修复了被招募成走狗的保安会卡住的bug
-- 修复了被禁用的报告键会触发手铐效果的bug
-- 修复了邪恶赌怪生成概率错误的bug
-- 清理者和秃鹫不会再同时生成
-- 深/淡色的标记现在在死后也会显示
+**3.4.4 版本**
+-修改了汉化
 
 </details>
-
-# 安装
-## Windows手动安装方法
-1. 下载并解压最新的[发布版](https://github.com/AlerHugu3s/TheOtherRoles_ZH/releases/download/v3.4.3/TheOtherRoles_ZH.zip)
-2. 找到游戏的根目录,steam玩家可以在steam中右键游戏来浏览本地文件，即可打开游戏根目录。
-3. 备份您的游戏，这一步不是必须完成，但建议你进行备份，将备份好的游戏保存在其他地方。
-4. 将.zip文件中的内容解压到游戏根目录(即含有.exe文件的目录)
-5. 运行游戏 (第一次运行可能花费较久时间)
-
-游戏运行失败? 你可能需要下载游戏必备环境[vc_redist](https://aka.ms/vs/16/release/vc_redist.x86.exe)
-
-![Install](https://i.imgur.com/pvBAyZN.png)
-
-**Linux手动安装方法**
-1. 通过steam安装Among Us
-2. 下载最新的[发布版](https://github.com/AlerHugu3s/TheOtherRoles_ZH/releases/download/v3.4.3/TheOtherRoles_ZH.zip) 并且将它解压到~/.steam/steam/steamapps/common/Among Us
-3. 在proton winecfg中将`winhttp.dll`设置为Enable(https://docs.bepinex.dev/articles/advanced/steam_interop.html#open-winecfg-for-the-target-game)
-4. 通过steam开启游戏
-
-# 超过十位玩家的游戏大厅
-我们强烈建议你在自定义服务器而非官方服务器上游玩. 如果你想和超过10位玩家一起游玩, 你就必须使用自定义服务器（目前官方服务器也已经支持）. 最初允许你超过10位玩家一起游玩的自定义服务器要归功于[CrowdedMod](https://github.com/CrowdedMods/CrowdedMod).
-
-**客户端设置:**
-1. 打开那个你可以设置不同地区的地区菜单
-2. 选择*Custom*地区
-3. 输入ip地址/域名以及你的服务器的端口号在输入框内
-
-**服务器设置:**
-1. 下载[Impostor](https://github.com/Impostor/Impostor)发布版，其支持Among Us 版本**2021.3.31 - 2021.4.2**(目前你可以通过imposter官方discord找到支持最新版本Among Us的不稳定版Imposter)
-2. 按Imposter官方的[服务器配置教程](https://github.com/Impostor/Impostor/wiki/Running-the-server)配置(使用你刚下载的服务器发布版)
-3. 确保在`config.json`文件中以下内容被设置为false:
-```
-    ...
-    "AntiCheat": {
-      "Enabled": false,
-      "BanIpFromGame": false
-    }
-```
-4. 确保服务端使用正确的端口号
-5. 运行服务器并配置客户端
-
-**使用Docker容器来配置你的服务器:** \
-如果你想使用docker容器，你就必须使用图片
-```
-aeonlucid/impostor:nightly
-```
-(目前只有"nightly"标签可以开启一个支持2021.3.31或更新版本的服务器)
-
-除了运行以外,你需要设置一些环境变量来禁用反作弊
-```
-IMPOSTOR_AntiCheat__Enabled=false
-IMPOSTOR_AntiCheat__BanIpFromGame=false
-```
-
-一个docker运行指令的例子:
-```
-docker run -p 22023:22023/udp --env IMPOSTOR_AntiCheat__Enabled=false --env IMPOSTOR_AntiCheat__BanIpFromGame=false aeonlucid/impostor:nightly
-```
-
-或者以背景运行的形式
-```
-docker run -d -p 22023:22023/udp --env IMPOSTOR_AntiCheat__Enabled=false --env IMPOSTOR_AntiCheat__BanIpFromGame=false aeonlucid/impostor:nightly
-```
-
-
-# 鸣谢 与 资源
-[OxygenFilter](https://github.com/NuclearPowered/Reactor.OxygenFilter) - 对于v2.3.0 to v2.6.1的所有版本, 我们使用了OxygenFilter来自动解码\
-[Reactor](https://github.com/NuclearPowered/Reactor) - 这是我们在v2.0.0以前所有版本使用的框架\
-[BepInEx](https://github.com/BepInEx) - 我们用它来hook方法\
-[Essentials](https://github.com/DorCoMaNdO/Reactor-Essentials) - 由**DorCoMaNdO**制作的自定义菜单:
-- 在 v1.6 之前: 我们使用Essentials的发布版
-- 在 v1.6-v1.8:我们对Essentials稍微做了一些改动. 你可以在这里查看这些改动 [branch](https://github.com/Eisbison/Reactor-Essentials/tree/feature/TheOtherRoles-Adaption) of our fork.
-- v2.0.0 以后的版本: 由于我们不再使用Reactor, 在**DorCoMaNdO**的帮助下，我们自己实现了自定义菜单功能
-
-[Jackal and Sidekick](https://www.twitch.tv/dhalucard) - 豺狼与走狗的创意原本是由**Dhalucard**提供的\
-[Among-Us-Love-Couple-Mod](https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod) - 恋人的创意原本是由**Woodi-dev**提供的\
-[Jester](https://github.com/Maartii/Jester) - 小丑的创意原本是由**Maartii**提供的\
-[ExtraRolesAmongUs](https://github.com/NotHunter101/ExtraRolesAmongUs) - 工程师与医生的创意原本是由**NotHunter101**提供的. 我们还使用了一些他提供的代码.\
-[Among-Us-Sheriff-Mod](https://github.com/Woodi-dev/Among-Us-Sheriff-Mod) - 警长的创意原本是由**Woodi-dev**提供的\
-[TooManyRolesMods](https://github.com/Hardel-DW/TooManyRolesMods) - 侦探和时间大师的创意原本是由**Hardel-DW**提供的. 我们还使用了一些他提供的代码.\
-[TownOfUs](https://github.com/slushiegoose/Town-Of-Us) - 换票师、交换式、纵火犯和一个类似的市长创意是由**Slushiegoose**提供的\
-[Ottomated](https://twitter.com/ottomated_) - 化形者、告密者以及伪装者的创意原本是由**Ottomated**提供的\
-[Crowded-Mod](https://github.com/CrowdedMods/CrowdedMod) - 超过10位玩家的游戏大厅需要归功于**Crowded Mod Team**\
-[Goose-Goose-Duck](https://store.steampowered.com/app/1568590/Goose_Goose_Duck) - 秃鹫职业的创意原本是由**Slushygoose**提供的
-感谢岸天提供的汉化Sprite资源
 
 # Settings
 The mod adds a few new settings to Among Us (in addition to the role settings):
@@ -1028,12 +933,3 @@ In order to achieve this goal, the Pursuer has an ability called "Blank", where 
 If the killer fires the "Blank", shields (e.g. Medic shield or Time Master shield) will not be triggered.
 The Pursuer has tasks (which can already be done while being a Lawyer), that count towards the task win for the Crewmates. If the Pursuer dies, their tasks won't be counted anymore.
 
-# Source code
-It's bad I know, this is a side project and my second week of modding. So there are no best practices around here.
-You can use parts of the code but don't copy paste the whole thing. Make sure you give credits to the other developers, because some parts of the code are based on theirs.
-
-# Bugs, suggestions and requests
-If you found any bugs, have an idea for a new role or any other request, join our [Discord server](https://discord.gg/77RkMJHWsM).
-
-# Copyedit
-Thanks for fixing our typos [jacktose](https://github.com/jacktose) ✌️
