@@ -315,9 +315,9 @@ namespace TheOtherRoles {
             miniGrowingUpDuration = CustomOption.Create(181, "迷你船员成长时间", 400f, 100f, 1500f, 100f, miniSpawnRate);
 
             loversSpawnRate = CustomOption.Create(50, cs(Lovers.color, "恋人生成概率"), rates, null, true);
-            loversImpLoverRate = CustomOption.Create(51, "一位恋人是伪装者的概率", rates, loversSpawnRate);
+            loversImpLoverRate = CustomOption.Create(51, "一位恋人是内鬼的概率", rates, loversSpawnRate);
             loversBothDie = CustomOption.Create(52, "恋人共死", true, loversSpawnRate);
-            loversCanHaveAnotherRole = CustomOption.Create(53, "恋人可拥有其他角色", true, loversSpawnRate);
+            loversCanHaveAnotherRole = CustomOption.Create(53, "恋人可拥有其他职业", true, loversSpawnRate);
             loversEnableChat = CustomOption.Create(54, "启用恋人私聊", true, loversSpawnRate);
 
             guesserSpawnRate = CustomOption.Create(310, cs(Guesser.color, "赌怪生成概率"), rates, null, true);
@@ -332,7 +332,7 @@ namespace TheOtherRoles {
 
             jesterSpawnRate = CustomOption.Create(60, cs(Jester.color, "小丑生成概率"), rates, null, true);
             jesterCanCallEmergency = CustomOption.Create(61, "小丑能召开紧急会议", true, jesterSpawnRate);
-            jesterHasImpostorVision = CustomOption.Create(62, "小丑拥有伪装者视野", false, jesterSpawnRate);
+            jesterHasImpostorVision = CustomOption.Create(62, "小丑拥有内鬼视野", false, jesterSpawnRate);
 
             arsonistSpawnRate = CustomOption.Create(290, cs(Arsonist.color, "纵火犯生成概率"), rates, null, true);
             arsonistCooldown = CustomOption.Create(291, "浇油冷却", 12.5f, 2.5f, 60f, 2.5f, arsonistSpawnRate);
@@ -347,8 +347,8 @@ namespace TheOtherRoles {
             sidekickCanKill = CustomOption.Create(226, "跟班可击杀", false, jackalSpawnRate);
             sidekickCanUseVents = CustomOption.Create(227, "跟班可使用管道", true, jackalSpawnRate);
             jackalPromotedFromSidekickCanCreateSidekick = CustomOption.Create(228, "跟班晋升豺狼后可招募新跟班", true, jackalSpawnRate);
-            jackalCanCreateSidekickFromImpostor = CustomOption.Create(229, "豺狼可招募伪装者成为他的跟班", true, jackalSpawnRate);
-            jackalAndSidekickHaveImpostorVision = CustomOption.Create(430, "豺狼和跟班拥有伪装者视野", false, jackalSpawnRate);
+            jackalCanCreateSidekickFromImpostor = CustomOption.Create(229, "豺狼可招募内鬼成为他的跟班", true, jackalSpawnRate);
+            jackalAndSidekickHaveImpostorVision = CustomOption.Create(430, "豺狼和跟班拥有内鬼视野", false, jackalSpawnRate);
 
             vultureSpawnRate = CustomOption.Create(340, cs(Vulture.color, "秃鹫生成概率"), rates, null, true);
             vultureCooldown = CustomOption.Create(341, "秃鹫技能冷却", 15f, 10f, 60f, 2.5f, vultureSpawnRate);
@@ -372,7 +372,7 @@ namespace TheOtherRoles {
 
             engineerSpawnRate = CustomOption.Create(90, cs(Engineer.color, "工程师生成概率"), rates, null, true);
             engineerNumberOfFixes = CustomOption.Create(91, "工程师可维修破坏次数", 1f, 1f, 3f, 1f, engineerSpawnRate);
-            engineerHighlightForImpostors = CustomOption.Create(92, "伪装者能看见工程师在管道中", true, engineerSpawnRate);
+            engineerHighlightForImpostors = CustomOption.Create(92, "内鬼能看见工程师在管道中", true, engineerSpawnRate);
             engineerHighlightForTeamJackal = CustomOption.Create(93, "豺狼和跟班能看到工程师在管道中 ", true, engineerSpawnRate);
 
             sheriffSpawnRate = CustomOption.Create(100, cs(Sheriff.color, "警长生成概率"), rates, null, true);
@@ -441,9 +441,9 @@ namespace TheOtherRoles {
 
             spySpawnRate = CustomOption.Create(240, cs(Spy.color, "间谍生成概率"), rates, null, true);
             spyCanDieToSheriff = CustomOption.Create(241, "间谍可被警长杀死", false, spySpawnRate);
-            spyImpostorsCanKillAnyone = CustomOption.Create(242, "如果有间谍存在，伪装者可杀死任何人", true, spySpawnRate);
+            spyImpostorsCanKillAnyone = CustomOption.Create(242, "如果有间谍存在，内鬼可杀死队友", true, spySpawnRate);
             spyCanEnterVents = CustomOption.Create(243, "间谍可以跳入管道", false, spySpawnRate);
-            spyHasImpostorVision = CustomOption.Create(244, "间谍拥有伪装者视野", false, spySpawnRate);
+            spyHasImpostorVision = CustomOption.Create(244, "间谍拥有内鬼视野", false, spySpawnRate);
 
             securityGuardSpawnRate = CustomOption.Create(280, cs(SecurityGuard.color, "保安生成概率"), rates, null, true);
             securityGuardCooldown = CustomOption.Create(281, "保安技能冷却", 30f, 10f, 60f, 2.5f, securityGuardSpawnRate);
