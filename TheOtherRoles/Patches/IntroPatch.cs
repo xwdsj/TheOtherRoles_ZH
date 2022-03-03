@@ -107,11 +107,11 @@ namespace TheOtherRoles.Patches {
 
                 if (infos.Any(info => info.roleId == RoleId.Lover)) {
                     PlayerControl otherLover = PlayerControl.LocalPlayer == Lovers.lover1 ? Lovers.lover2 : Lovers.lover1;
-                    __instance.RoleBlurbText.text += Helpers.cs(Lovers.color, $"\n♥ 你与{otherLover?.Data?.PlayerName ?? ""}相恋了 ♥");
+                    __instance.RoleBlurbText.text += Helpers.cs(Lovers.color, $"\n♥ 你与{otherLover?.Data?.PlayerName ?? ""}坠入爱河 ♥");
                 }
                 if (Deputy.knowsSheriff && Deputy.deputy != null && Sheriff.sheriff != null) {
                     if (infos.Any(info => info.roleId == RoleId.Sheriff)) 
-                        __instance.RoleBlurbText.text += Helpers.cs(Sheriff.color, $"\n你的警员是{Deputy.deputy?.Data?.PlayerName ?? ""}");
+                        __instance.RoleBlurbText.text += Helpers.cs(Sheriff.color, $"\n你的捕快是{Deputy.deputy?.Data?.PlayerName ?? ""}");
                     else if (infos.Any(info => info.roleId == RoleId.Deputy))
                         __instance.RoleBlurbText.text += Helpers.cs(Sheriff.color, $"\n你的警长是{Sheriff.sheriff?.Data?.PlayerName ?? ""}");
                 }

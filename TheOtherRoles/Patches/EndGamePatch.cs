@@ -275,11 +275,11 @@ namespace TheOtherRoles.Patches {
             textRenderer.text = "";
 
             if (AdditionalTempData.winCondition == WinCondition.JesterWin) {
-                textRenderer.text = "小丑胜利";
+                textRenderer.text = "小丑竟是我自己";
                 textRenderer.color = Jester.color;
             }
             else if (AdditionalTempData.winCondition == WinCondition.ArsonistWin) {
-                textRenderer.text = "纵火犯胜利";
+                textRenderer.text = "烧尽一切！";
                 textRenderer.color = Arsonist.color;
             }
             else if (AdditionalTempData.winCondition == WinCondition.VultureWin) {
@@ -296,7 +296,7 @@ namespace TheOtherRoles.Patches {
                 __instance.BackgroundBar.material.SetColor("_Color", Lovers.color);
             } 
             else if (AdditionalTempData.winCondition == WinCondition.LoversSoloWin) {
-                textRenderer.text = "恋人胜利";
+                textRenderer.text = "你们这群单身狗";
                 textRenderer.color = Lovers.color;
                 __instance.BackgroundBar.material.SetColor("_Color", Lovers.color);
             }
@@ -305,7 +305,7 @@ namespace TheOtherRoles.Patches {
                 textRenderer.color = Jackal.color;
             }
             else if (AdditionalTempData.winCondition == WinCondition.MiniLose) {
-                textRenderer.text = "迷你船员死亡";
+                textRenderer.text = "我还是个孩子啊";
                 textRenderer.color = Mini.color;
             }
 
