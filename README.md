@@ -929,12 +929,3 @@ In order to achieve this goal, the Pursuer has an ability called "Blank", where 
 If the killer fires the "Blank", shields (e.g. Medic shield or Time Master shield) will not be triggered.
 The Pursuer has tasks (which can already be done while being a Lawyer), that count towards the task win for the Crewmates. If the Pursuer dies, their tasks won't be counted anymore.
 
-# Source code
-It's bad I know, this is a side project and my second week of modding. So there are no best practices around here.
-You can use parts of the code but don't copy paste the whole thing. Make sure you give credits to the other developers, because some parts of the code are based on theirs.
-
-# Bugs, suggestions and requests
-If you found any bugs, have an idea for a new role or any other request, join our [Discord server](https://discord.gg/77RkMJHWsM).
-
-# Copyedit
-Thanks for fixing our typos [jacktose](https://github.com/jacktose) ✌️
